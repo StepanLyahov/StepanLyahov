@@ -124,10 +124,10 @@
 * [GetMentor](https://getmentor.dev/mentor/liahov-stepan-5599)
 
 ## Contributes
-*TODO
+* TODO
 
 ## Courses
-*TODO
+* TODO
 
 ## Books
 *   Designing Data-Intensive Applications: Embracing Distributed Trade-Offs
@@ -145,7 +145,7 @@
 * [Medium](https://medium.com/@lyahov.stepa)
 
 ## Conferences
-*TODO
+* TODO
 
 ## Algorithms
 * [LeetCode](https://github.com/StepanLyahov/leetcode)
