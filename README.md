@@ -117,6 +117,7 @@
 
 ## Projects
 Go microservice template: https://github.com/StepanLyahov/go-microservice-template
+High load data pipeline: https://github.com/StepanLyahov/high-load-data-pipeline
 
 ## Mentoring
 * Solvery: https://solvery.io/ru/mentor/17984
@@ -150,4 +151,4 @@ Medium: https://medium.com/@lyahov.stepa
 LeetCode: https://github.com/StepanLyahov/leetcode
 
 ## Certificates
-*TODO
+GitLab CI/CD: https://stepik.org/cert/2950191?lang=en
