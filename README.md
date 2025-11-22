@@ -120,7 +120,7 @@ Go microservice template: https://github.com/StepanLyahov/go-microservice-templa
 High load data pipeline: https://github.com/StepanLyahov/high-load-data-pipeline
 
 ## Mentoring
-* Solvery: https://solvery.io/ru/mentor/17984
+* Solvery: https://solvery.io/mentor/stepanlyakhov
 * GetMentor: https://getmentor.dev/mentor/liahov-stepan-5599
 
 ## Contributes
