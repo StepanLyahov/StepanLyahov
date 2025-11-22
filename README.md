@@ -3,6 +3,22 @@
 
 [`linkedin.com/in/stepanlyahov`](https://www.linkedin.com/in/stepanlyahov) | `lyahov.stepa@gmail.com`
 
+## Contents
+
+- [About](#about)
+- [Experience](#experience)
+- [Skills](#skills)
+- [Education](#education)
+- [Projects](#projects)
+- [Mentoring](#mentoring)
+- [Contributes](#contributes)
+- [Courses](#courses)
+- [Books](#books)
+- [Articles](#articles)
+- [Conferences](#conferences)
+- [Algorithms](#algorithms)
+- [Certificates](#certificates)
+
 ---
 
 ## About
