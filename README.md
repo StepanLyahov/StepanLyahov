@@ -1,5 +1,6 @@
 # Stepan Lyakhov
 **Senior Software Engineer (Golang) | Backend & Distributed Systems**
+** 5+ year of experience | AdTech | FinTech | AI **
 
 [`linkedin.com/in/stepanlyahov`](https://www.linkedin.com/in/stepanlyahov) | `lyahov.stepa@gmail.com`
 
