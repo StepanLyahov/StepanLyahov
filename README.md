@@ -116,12 +116,12 @@
 ---
 
 ## Projects
-Go microservice template: https://github.com/StepanLyahov/go-microservice-template
-High load data pipeline: https://github.com/StepanLyahov/high-load-data-pipeline
+*  [Go microservice template](https://github.com/StepanLyahov/go-microservice-template)
+*  [High load data pipeline](https://github.com/StepanLyahov/high-load-data-pipeline)
 
 ## Mentoring
-* Solvery: https://solvery.io/mentor/stepanlyakhov
-* GetMentor: https://getmentor.dev/mentor/liahov-stepan-5599
+* [Solvery](https://solvery.io/mentor/stepanlyakhov)
+* [GetMentor](https://getmentor.dev/mentor/liahov-stepan-5599)
 
 ## Contributes
 *TODO
@@ -142,13 +142,13 @@ High load data pipeline: https://github.com/StepanLyahov/high-load-data-pipeline
 *   Unit Testing Principles, Practices, and Patterns
 
 ## Articles
-Medium: https://medium.com/@lyahov.stepa
+* [Medium](https://medium.com/@lyahov.stepa)
 
 ## Conferences
 *TODO
 
 ## Algorithms
-LeetCode: https://github.com/StepanLyahov/leetcode
+* [LeetCode](https://github.com/StepanLyahov/leetcode)
 
 ## Certificates
-GitLab CI/CD: https://stepik.org/cert/2950191?lang=en
+* [GitLab CI/CD](https://stepik.org/cert/2950191?lang=en)
