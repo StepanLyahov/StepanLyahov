@@ -3,7 +3,7 @@
 
 **5+ year of experience | Ad | Finance | Search | AI**
 
-[Telegram](`https://t.me/StepaLyahov`) | [`linkedin.com/in/stepanlyahov`](https://www.linkedin.com/in/stepanlyahov) | `lyahov.stepa@gmail.com`
+[`Telegram`](https://t.me/StepaLyahov) | [`linkedin.com/in/stepanlyahov`](https://www.linkedin.com/in/stepanlyahov) | `lyahov.stepa@gmail.com`
 
 ## Contents
 
