@@ -3,10 +3,11 @@
 
 **6 year of experience | Ad | Finance | Search | AI**
 
-- [`X`](https://x.com/lyahovstepa)  
+- [`linkedin.com/in/stepanlyahov`](https://www.linkedin.com/in/stepanlyahov)
 - [`WhatsApp`](http://wa.me/79045372533)
 - [`Telegram`](https://t.me/StepaLyahov)
-- [`linkedin.com/in/stepanlyahov`](https://www.linkedin.com/in/stepanlyahov)
+- [`YouTube`](https://www.youtube.com/channel/UC1c3RDSUmLNDjfUNTkqgzLA)
+- [`X`](https://x.com/lyahovstepa)  
 - `lyahov.stepa@gmail.com`
 
 ## Contents
