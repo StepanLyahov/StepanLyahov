@@ -3,7 +3,6 @@
 
 **6 year of experience | Ad | Finance | Search | AI**
 
-- [`Linkedin`](www.linkedin.com/in/stiv-lyhov-go-backend)
 - [`WhatsApp`](http://wa.me/79045372533)
 - [`Telegram`](https://t.me/StepaLyahov)
 - [`YouTube`](https://www.youtube.com/channel/UC1c3RDSUmLNDjfUNTkqgzLA)
