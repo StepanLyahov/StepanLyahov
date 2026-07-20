@@ -8,7 +8,7 @@ Georgia • Remote
 
 [Telegram](https://t.me/StepaLyahov)  
 [YouTube](https://www.youtube.com/channel/UC1c3RDSUmLNDjfUNTkqgzLA)  
-[Email](mailto:lyahov.stepa@gmail.com)
+[Email](mailto:lyahov.stepa@gmail.com)   
 [LinkedIn](www.linkedin.com/in/stiven-lyakov-swe-golang)
 
 ---
