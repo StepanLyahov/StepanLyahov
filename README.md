@@ -115,7 +115,9 @@ I enjoy solving complex engineering problems: designing reliable architectures, 
 
 **Nov 2024 — Jun 2026**
 
-Built a real-time advertising and personalization platform for marketplace, grocery, and pharmacy products.
+Developed a large-scale real-time advertising platform powering sponsored product placement across Magnit's omni-channel ecosystem (Marketplace, Grocery, Pharmacy, and other business verticals). The platform embedded advertisements into every major customer touchpoint, including search, category browsing, autocomplete, and product pages. It combined auction-based ad serving with machine learning–driven personalized ranking to maximize both business revenue and user relevance. The system served more than 5 million users, handled thousands of search requests per second, and generated advertising responses within a 30 ms SLA.
+
+The platform was designed as a shared advertising infrastructure that could be integrated into any customer-facing surface across Magnit's digital ecosystem, providing a unified auction, targeting, and personalization engine for multiple business domains.
 
 Technologies:
 
@@ -140,7 +142,7 @@ Key achievements:
 
 **Apr 2024 — Oct 2024**
 
-Developed financial infrastructure for advertising marketplace connecting advertisers and creators.
+Developed the core financial platform for VK's advertising marketplace, which connected advertisers with bloggers and online communities through a self-service campaign management system. Advertisers could fund internal wallets, select multiple creators based on targeting criteria, launch advertising campaigns, and pay according to different billing models. The platform managed the complete financial lifecycle—from incoming payments via external banking providers and balance accounting to fund reservation, campaign settlements, creator payouts, and payment reconciliation—while guaranteeing transactional consistency across distributed services.
 
 Technologies:
 
@@ -162,7 +164,7 @@ Key achievements:
 
 **Apr 2023 — Feb 2024**
 
-Worked on marketplace search infrastructure serving millions of products.
+Developed and optimized the search platform behind a large-scale e-commerce marketplace specializing in professional tools and construction equipment. The system indexed millions of products while continuously processing catalog updates, pricing changes, inventory availability, and product metadata. The search platform powered product discovery through full-text search, autocomplete, filtering, and category navigation. The team's primary objectives were to improve search relevance, reduce indexing latency, and scale Elasticsearch infrastructure to support rapid catalog updates without compromising user experience.
 
 Technologies:
 
@@ -184,7 +186,9 @@ Key achievements:
 
 **Aug 2021 — Apr 2023**
 
-Built distributed logistics systems using microservices architecture.
+Developed a large-scale B2B logistics platform that connected enterprise customers with freight carriers through a real-time auction system. The platform managed the complete transportation lifecycle—from shipment creation and carrier bidding to execution, delivery tracking, and operational notifications. Built on an event-driven microservices architecture, the system coordinated long-running business processes while maintaining consistent shipment state across distributed services.
+
+I was primarily responsible for the shipment orchestration service, which acted as the source of truth for transportation state, and for the notification platform responsible for delivering operational updates via push notifications, email, and SMS to both customers and carriers.
 
 Technologies:
 
