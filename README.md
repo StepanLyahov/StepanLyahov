@@ -10,7 +10,7 @@ Georgia • Remote
 [YouTube](https://www.youtube.com/channel/UC1c3RDSUmLNDjfUNTkqgzLA)  
 [Email](mailto:lyahov.stepa@gmail.com)   
 [LinkedIn](www.linkedin.com/in/stiven-lyakov-swe-golang)  
-[Phone](tel:+995599884234)
++995599884234
 
 ---
 
