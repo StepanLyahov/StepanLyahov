@@ -9,7 +9,8 @@ Georgia • Remote
 [Telegram](https://t.me/StepaLyahov)  
 [YouTube](https://www.youtube.com/channel/UC1c3RDSUmLNDjfUNTkqgzLA)  
 [Email](mailto:lyahov.stepa@gmail.com)   
-[LinkedIn](www.linkedin.com/in/stiven-lyakov-swe-golang)
+[LinkedIn](www.linkedin.com/in/stiven-lyakov-swe-golang)  
+[Phone](tel:+995599884234)
 
 ---
 
@@ -29,6 +30,42 @@ My focus areas:
 - technical leadership
 
 I enjoy solving complex engineering problems: designing reliable architectures, improving system performance, and turning business requirements into scalable technical solutions.
+
+---
+
+# Core Expertise
+
+**Languages:** Go, Python
+
+**Architecture:** Distributed Systems, Microservices, Event-Driven Architecture, System Design, API Design, Clean Architecture
+
+**Cloud:** AWS, GCP
+
+**Infrastructure:** Docker, Docker Compose, Kubernetes, Terraform, Helm, Linux
+
+**Databases:** PostgreSQL, MongoDB, Redis, Memcached
+
+**Messaging:** Kafka, RabbitMQ, NATS
+
+**API:** REST, gRPC, GraphQL, Protocol Buffers (Protobuf)
+
+**Search:** Elasticsearch / OpenSearch, ELK Stack (Elasticsearch, Logstash, Kibana)
+
+**Observability:** OpenTelemetry, Prometheus, Grafana, Datadog, Uptrace, Sentry
+
+**Distributed Systems:** High-Load Systems, Search Infrastructure, Real-Time Data Processing
+
+**AI & Developer Productivity:** Cursor, ChatGPT, Claude, OpenAI API, Anthropic API, Prompt Engineering, AI-Assisted Development, LLM Integration
+
+**Machine Learning:** Personalization, Ranking Systems, CatBoost Integration
+
+**Testing:** Unit Testing, Integration Testing, End-to-End (E2E) Testing
+
+**Development Tools:** Git, GitHub, GitLab, Bitbucket, GitFlow
+
+**Methodologies:** Agile, Scrum, Kanban
+
+**Leadership:** Architecture Ownership, ADRs, Cross-Team Collaboration, Mentoring
 
 ---
 
@@ -72,7 +109,6 @@ I enjoy solving complex engineering problems: designing reliable architectures, 
 
 # Professional Experience
 
-
 ## Magnit OMNI
 
 ### Senior Backend Engineer (Technical Lead Responsibilities)
@@ -87,12 +123,13 @@ Technologies:
 
 Key achievements:
 
-- Led architecture of ML-powered personalization platform serving millions of users.
-- Designed ranking pipeline combining K-Means clustering and CatBoost models.
-- Reduced feature storage requirements from ~1 TB to ~40 GB.
-- Designed distributed microservices architecture and communication patterns.
-- Defined APIs, ADRs, and technical standards for backend systems.
-- Built fraud detection pipelines processing 1 TB+ of daily events.
+- Led architecture of a real-time personalization platform serving millions of users under a strict 30 ms latency SLA.
+- Designed an ML inference pipeline combining K-Means clustering and CatBoost ranking, reducing feature storage from ~1 TB to ~40 GB while preserving recommendation quality.
+- Owned architecture of a distributed microservices platform using Kafka and gRPC, defining service boundaries, APIs, and asynchronous data synchronization.
+- Designed fault-tolerant event-driven workflows with idempotent processing and retry mechanisms.
+- Acted as technical lead for a backend team of four engineers — decomposing features, reviewing designs, and mentoring developers.
+- Authored ADRs and coordinated architectural decisions across multiple engineering teams.
+- Built a fraud detection pipeline processing more than 1 TB of clickstream events per day.
 
 
 ---
@@ -201,3 +238,6 @@ lyahov.stepa@gmail.com
 
 Telegram:
 https://t.me/StepaLyahov
+
+Phone:
++995 599 884 234
