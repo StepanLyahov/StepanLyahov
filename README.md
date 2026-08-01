@@ -204,6 +204,29 @@ Key achievements:
 
 ---
 
+## FG BCS
+
+### Backend Developer
+
+**Apr 2020 — Aug 2021**
+
+Developed an investment idea aggregation platform for one of Russia's leading investment and brokerage companies. The platform continuously collected investment recommendations from multiple internal and external sources, normalized heterogeneous data into a unified domain model, and delivered up-to-date investment ideas to customer-facing applications. Built on an event-driven architecture, the system processed over 1 million investment ideas per day, supporting continuous synchronization, enrichment, and indexing for fast data delivery.
+
+Technologies:
+
+`Go` `Java` `PostgreSQL` `Kafka`
+
+Key achievements:
+
+- Designed and implemented a scalable aggregation platform integrating 5+ independent data sources into a unified event-driven processing pipeline.
+- Built an event-driven architecture using asynchronous messaging to ingest, normalize, enrich, and synchronize investment ideas across distributed services.
+- Developed resilient integration services with fault-tolerant processing, retry mechanisms, and decoupled data synchronization.
+- Optimized the indexing pipeline to continuously process and update over 1 million investment ideas per day, ensuring low-latency availability for end users.
+- Designed a unified domain model that normalized heterogeneous investment recommendations from multiple providers into a consistent representation.
+
+
+---
+
 # Mentoring
 
 
